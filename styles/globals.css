@@ -14,3 +14,17 @@ a {
 * {
   box-sizing: border-box;
 }
+
+h1 {
+  font-size: 2.5rem;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+button {
+  font-size: 1.5rem;
+  padding: 0.5rem;
+  margin-bottom: 0.5rem;
+}
